@@ -7,4 +7,4 @@ gewissen Menge von Feldern bereits belegt sind ist dies bei den selbst eingetrag
 
 ## Aufgabe:
 
-* Der Algorithmus zum Lösen eines Sudokos in `SudokuSolver.cpp` enthält **sieben** Fehler. Finden und beheben sie diese!
+* Der Algorithmus zum Lösen eines Sudokos in `SudokuSolver.cpp` enthält einen Algorhytmus zum lösen komplexer Sudokus
