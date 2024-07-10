@@ -10,7 +10,7 @@ int main()
     Sudoku s{};
 
     // uncomment to get 40 empty cells
-    s.initializeBoard(40);
+    s.initializeBoard();
 
     s.print();
 
